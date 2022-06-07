@@ -6,7 +6,7 @@ Last chapter, we learned that stories correspond with discrete component states.
 
 ## Sidebar and Canvas
 
-A `*.stories.js` file defines all the stories for a component. Each story has a corresponding sidebar item. When you click on a story, it renders in the Canvas an isolated preview iframe.
+A `*.stories.js` file or a `*.stories.ts` file defines all the stories for a component. Each story has a corresponding sidebar item. When you click on a story, it renders in the Canvas an isolated preview iframe.
 
 <video autoPlay muted playsInline loop>
   <source
